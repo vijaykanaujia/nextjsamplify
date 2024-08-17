@@ -1,0 +1,16 @@
+{
+  "resourceName": "s31e226f7b",
+  "policyUUID": "1e226f7b",
+  "bucketName": "nextjsamplify774e8b76349f4b5a9ad22539b10a66f7",
+  "storageAccess": "authAndGuest",
+  "guestAccess": [
+    "READ"
+  ],
+  "authAccess": [
+    "CREATE_AND_UPDATE",
+    "READ",
+    "DELETE"
+  ],
+  "triggerFunction": "NONE",
+  "groupAccess": {}
+}
